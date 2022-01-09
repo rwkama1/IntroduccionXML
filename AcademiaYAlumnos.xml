@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Directiva al compilador de XML-->
+<academia>
+  <!--Nodo Raiz -->
+  <alumno nro="1111111" tipo="cedula">
+    <!--Primer elemento secundario que en este caso tiene 2 atributos-->
+    <nombre>Ana Sosa</nombre>
+    <!--Otro Elemento secundario que en este caso tiene el valor Ana Sosa-->
+    <tel>2 111 11 11</tel>
+    <correo>gFernandez@bios.edu.uy</correo>
+  </alumno>
+  <alumno nro="2222222" tipo="pasaporte">
+    <nombre>Eva Rocha</nombre>
+    <tel />
+    <!--esto indica que no tiene valor para el elemento tel-->
+  </alumno>
+  <alumno nro="4" tipo="CEDULA">
+    <nombre>GUSTAVO FERNANDEZ</nombre>
+    <tel>123 123 123</tel>
+  </alumno>
+  <alumno nro="1113883" tipo="cedula">
+    <nombre>Ana</nombre>
+    <tel>2011111</tel>
+  </alumno>
+</academia>

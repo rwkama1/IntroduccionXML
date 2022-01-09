@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "IntroduccionXML", ".", "{C6015E95-F580-4C57-9143-B04893910020}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/IntroduccionXML"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Gustavo2010\ASPNET\Clase20\IntroduccionXML\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\IntroduccionXML\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/IntroduccionXML"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Gustavo2010\ASPNET\Clase20\IntroduccionXML\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\IntroduccionXML\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3476"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6015E95-F580-4C57-9143-B04893910020}.Debug|.NET.ActiveCfg = Debug|.NET
+		{C6015E95-F580-4C57-9143-B04893910020}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
